@@ -1,6 +1,7 @@
 ## 一、前言
 &emsp;&emsp; 开始是跟着黑马程序员那个练习，做一个拼图小游戏的，但是自己发现那个拼图游戏根本没咋用到面向对象的编程思想，让我觉得很不自然，所以自己做了这个更加有面向对象思想的拼图游戏，也适合初学者入门。
 <div style="text-align:center;">     <img src="https://picture-1323909691.cos.ap-nanjing.myqcloud.com/test/0.jpg" style="height:314px; width:auto;"> </div>
+
 ## 二、介绍
 程序主要由三部分组成
 - APP
